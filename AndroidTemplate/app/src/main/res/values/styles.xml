@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Texto">
+        <item name="android:textColor">@color/colortextodefault</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:fontFamily">@font/circularstdmedium</item>
+    </style>
+    <style name="boton">
+        <item name="android:textColor">@color/colortextoblanco</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+    <style name="botonazul">
+        <item name="android:background">@drawable/boton_redondobg</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/circularstdmedium</item>
+    </style>
+</resources>

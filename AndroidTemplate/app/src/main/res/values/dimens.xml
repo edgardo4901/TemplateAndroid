@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="redondoboton">5dp</dimen>
+    <dimen name="margenizquierda">20dp</dimen>
+    <dimen name="margenderecha">20dp</dimen>
+</resources>
